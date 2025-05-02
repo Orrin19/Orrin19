@@ -1,6 +1,6 @@
 <div>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&height=30&vcenter=true&lines=Hello+there+👋"/>
-  <p>Welcome to my page. I'm a software engineering student from Russia who loves frontend development and creating user interfaces.</p>
+  <p>Welcome to my page. I'm a software engineering student from Russia who loves web development and creating user interfaces.</p>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&height=30&vcenter=true&lines=My+stack+💻"/><br>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&height=25&vcenter=true&lines=Frontend+🎨"/>
   <div>
